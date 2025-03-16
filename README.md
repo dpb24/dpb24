@@ -1,8 +1,7 @@
 ```yaml
 * Data Analyst specialising in broadcast/streaming media.
 * Proficient in Python, Tableau, Excel, SQL, and R.
-* Masters with double first in Theoretical Physics, Cambridge University
-* Award-winning documentary filmmaker at BBC Studios' Science Unit
+* Masters with double first in Theoretical Physics, Cambridge University.
 
 ```
 <h2> &nbspMy toolkit</h2>
