@@ -1,5 +1,5 @@
 ```yaml
-* Data Analyst with domain expertise in broadcast/streaming media.
+* Data Analyst with domain expertise in broadcast and streaming media.
 * Proficient in Python, Tableau, Excel, SQL, and R.
 * Masters with double first in Theoretical Physics, Cambridge University.
 
