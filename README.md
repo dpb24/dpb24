@@ -1,7 +1,10 @@
 ```yaml
-* Data Analyst with domain expertise in broadcast and streaming media.
-* Proficient in Python, Tableau, Excel, SQL, and R.
-* Masters with double first in Theoretical Physics, Cambridge University.
+* Data Scientist with domain expertise in broadcast and streaming media
+* MSc in Physics (Double First), Cambridge University
+* Proficient in Python, R, SQL, Tableau, Excel and Machine Learning algorithms
+* Strong knowledge of: Python libraries (Pandas, NumPy, Scikit-Learn) and statistical modelling
+techniques
+* Experience in data analysis, machine learning, and data visualisation for real-world applications
 
 ```
 <h2> &nbspMy toolkit</h2>
