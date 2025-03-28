@@ -2,7 +2,7 @@
 * Data Scientist with domain expertise in broadcast and streaming media
 * MSc in Physics (Double First), Cambridge University
 * Proficient in Python, R, SQL, Tableau, Excel and Machine Learning algorithms
-* Strong knowledge of: Python libraries (Pandas, NumPy, Scikit-Learn) and statistical modelling
+* Knowledge of: Python libraries (Pandas, NumPy, Scikit-Learn) and statistical modelling
 techniques
 * Experience in data analysis, machine learning, and data visualisation for real-world applications
 
