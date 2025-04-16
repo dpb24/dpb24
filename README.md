@@ -1,10 +1,10 @@
 ```yaml
-* Data Scientist with domain expertise in broadcast and streaming media
-* MSc in Physics (Double First), Cambridge University
-* Proficient in Python, R, SQL, Tableau, Excel and Machine Learning algorithms
-* Knowledge of: Python libraries (Pandas, NumPy, Scikit-Learn) and statistical modelling
-techniques
-* Experience in data analysis, machine learning, and data visualisation for real-world applications
+* Data Scientist skilled in Python, R, SQL, Tableau, Excel, and machine learning algorithms
+* Master’s degree with Double First in Physics from Cambridge University
+* Hands-on experience in data analysis, machine learning, and data visualisation for real-world applications
+* Proficient in key Python libraries (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch) and statistical modelling techniques
+* Excellent communication, data storytelling, and stakeholder engagement skills
+* Domain expertise in broadcast and streaming media
 
 ```
 <h2> &nbspMy toolkit</h2>
