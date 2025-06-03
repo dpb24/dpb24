@@ -1,5 +1,5 @@
 ```yaml
-* Data Scientist skilled in Python, R, SQL, Tableau, Excel, and machine learning algorithms
+* Data analyst skilled in Python, R, SQL, Tableau, Excel, and machine learning algorithms
 * Master’s degree in Physics (Double First) from Cambridge University
 * Hands-on experience in data analysis, machine learning, and data visualisation for real-world applications
 * Proficient with Python libraries: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
